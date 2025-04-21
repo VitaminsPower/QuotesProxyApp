@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IaCvymeYu+UljToc+yDZBSqTxesr5/lYPA+8PrSVKQc=",
+  "Source": "QuotesProxyApp",
+  "BasePath": "_content/QuotesProxyApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

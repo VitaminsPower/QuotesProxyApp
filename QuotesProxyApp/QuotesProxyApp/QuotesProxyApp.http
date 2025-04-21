@@ -1,0 +1,6 @@
+@QuotesProxyApp_HostAddress = http://localhost:5216
+
+GET {{QuotesProxyApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
