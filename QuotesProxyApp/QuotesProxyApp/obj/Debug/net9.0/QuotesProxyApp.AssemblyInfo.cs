@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuotesProxyApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e886cffef2c216608516e98bef9e0f013addfb7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833e7346bf49c603e4f46489dcc8731f2bb553fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuotesProxyApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuotesProxyApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

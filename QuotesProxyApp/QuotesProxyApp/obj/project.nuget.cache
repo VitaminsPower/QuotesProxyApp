@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUJP7nRM+Bw=",
+  "dgSpecHash": "m+YwmxDo4PI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\QuotesProxyApp2\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\jetbrains.annotations\\2024.3.0\\jetbrains.annotations.2024.3.0.nupkg.sha512",
