@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj": {}
+    "C:\\Users\\User\\source\\repos\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj": {
+    "C:\\Users\\User\\source\\repos\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj",
         "projectName": "QuotesProxyApp",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\QuotesProxyApp\\QuotesProxyApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\QuotesProxyApp\\QuotesProxyApp\\QuotesProxyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
